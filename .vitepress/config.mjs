@@ -10,9 +10,12 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Vue.js', link: '/vue/index' },
-      { text: 'Three.js', link: '/three/index' }
+      { text: 'Vue.js', link: '/vue/index', activeMatch: '/vue/' },
+      { text: 'Three.js', link: '/three/index', activeMatch: '/three/' }
     ],
+    search: {
+      provider: 'local'
+    },
     outline: {
       label: '页面导航'
     },
