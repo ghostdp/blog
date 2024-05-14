@@ -11,8 +11,8 @@ hero:
       text: 文章
       link: /vue/index
     - theme: alt
-      text: 视频
-      link: /empty
+      text: B站视频
+      link: 'https://space.bilibili.com/441876893'
 
 features:
   - title: Vue.js
