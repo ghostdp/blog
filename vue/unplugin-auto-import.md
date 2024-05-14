@@ -23,7 +23,7 @@ const doubled = computed(() => count.value * 2)
 ## Vue的使用方式（基于Vite操作）
 
 1. 安装
-```cmd
+```sh
 npm i -D unplugin-auto-import
 ```
 
