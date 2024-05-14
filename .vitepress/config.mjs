@@ -33,6 +33,7 @@ export default defineConfig({
         {
           text: '集合列表',
           items: [
+            { text: '透视摄像机', link: '/three/PerspectiveCamera' }
           ]
         }
       ]
