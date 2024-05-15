@@ -36,7 +36,8 @@ export default defineConfig({
             { text: '透视摄像机', link: '/three/PerspectiveCamera' },
             { text: '创建一个方块', link: '/three/createCube' },
             { text: '画布自适应屏幕大小', link: '/three/resize' },
-            { text: '给方块每个面添加不同的颜色', link: '/three/cubeColor' }
+            { text: '给方块每个面添加不同的颜色', link: '/three/cubeColor' },
+            { text: '带有光照的方块', link: '/three/cubeLight' }
           ]
         }
       ]
