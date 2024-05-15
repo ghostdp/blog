@@ -6,3 +6,4 @@
 - [给方块每个面添加不同的颜色](/three/cubeColor)
 - [带有光照的方块](/three/cubeLight)
 - [纹理贴图](/three/TextureLoader)
+- [CircleGeometry](/three/CircleGeometry)

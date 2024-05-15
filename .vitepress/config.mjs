@@ -46,6 +46,7 @@ export default defineConfig({
             { text: '给方块每个面添加不同的颜色', link: '/three/cubeColor' },
             { text: '带有光照的方块', link: '/three/cubeLight' },
             { text: '纹理贴图', link: '/three/TextureLoader' },
+            { text: 'CircleGeometry', link: '/three/CircleGeometry' }
           ],
         },
       ],
