@@ -3,3 +3,4 @@
 - [透视摄像机](/three/PerspectiveCamera)
 - [创建一个方块](/three/createCube)
 - [画布自适应屏幕大小](/three/resize)
+- [给方块每个面添加不同的颜色](/three/cubeColor)
