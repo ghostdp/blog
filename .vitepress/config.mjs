@@ -49,6 +49,7 @@ export default defineConfig({
             { text: '带有光照的方块', link: '/three/cubeLight' },
             { text: '纹理贴图', link: '/three/TextureLoader' },
             { text: 'CircleGeometry', link: '/three/CircleGeometry' },
+            { text: 'SphereGeometry', link: '/three/SphereGeometry' },
             { text: '组合的物体', link: '/three/Combined-objects' },
             { text: '画线', link: '/three/line' }
           ],

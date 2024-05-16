@@ -7,5 +7,6 @@
 - [带有光照的方块](/three/cubeLight)
 - [纹理贴图](/three/TextureLoader)
 - [CircleGeometry](/three/CircleGeometry)
+- [SphereGeometry](/three/SphereGeometry)
 - [组合的物体](/three/Combined-objects)
 - [画线](/three/line)
