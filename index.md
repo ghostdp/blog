@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "前端博客"
-  # text: "blog of 可乐666"
+  # text: "彼岸5173的前端博客"
   tagline: Vue.js Three.js ...
   actions:
     - theme: brand
