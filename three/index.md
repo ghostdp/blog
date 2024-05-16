@@ -7,3 +7,4 @@
 - [带有光照的方块](/three/cubeLight)
 - [纹理贴图](/three/TextureLoader)
 - [CircleGeometry](/three/CircleGeometry)
+- [组合的物体](/three/Combined-objects)
