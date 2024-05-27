@@ -52,7 +52,8 @@ export default defineConfig({
             { text: 'SphereGeometry', link: '/three/SphereGeometry' },
             { text: '组合的物体', link: '/three/Combined-objects' },
             { text: '画线', link: '/three/line' },
-            { text: '轨道控制器', link: '/three/OrbitControls' }
+            { text: '轨道控制器', link: '/three/OrbitControls' },
+            { text: '包围盒', link: '/three/BoxHelper' }
           ],
         },
       ],

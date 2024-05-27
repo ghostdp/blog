@@ -11,3 +11,4 @@
 - [组合的物体](/three/Combined-objects)
 - [画线](/three/line)
 - [轨道控制器](/three/OrbitControls)
+- [包围盒](/three/BoxHelper)
