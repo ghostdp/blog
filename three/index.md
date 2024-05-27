@@ -10,3 +10,4 @@
 - [SphereGeometry](/three/SphereGeometry)
 - [组合的物体](/three/Combined-objects)
 - [画线](/three/line)
+- [轨道控制器](/three/OrbitControls)
