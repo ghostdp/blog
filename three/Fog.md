@@ -51,6 +51,6 @@ function animate() {
 animate()
 ```
 
-> 注：scene.background可以设置场景的背景色，且背景总是首先被渲染的。
+> 注：scene.background可以设置场景的背景色，且背景总是首先被渲染的。默认为 null，场景显示为黑色。
 
 ![Fog](/three/imgs/Fog/1.png)

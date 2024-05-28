@@ -14,3 +14,4 @@
 - [包围盒](/three/BoxHelper)
 - [雾](/three/Fog)
 - [gltf模型](/three/GLTFLoader)
+- [天空盒](/three/Skybox)

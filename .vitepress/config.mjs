@@ -56,6 +56,7 @@ export default defineConfig({
             { text: '包围盒', link: '/three/BoxHelper' },
             { text: '雾', link: '/three/Fog' },
             { text: 'gltf模型', link: '/three/GLTFLoader' },
+            { text: '天空盒', link: '/three/Skybox' }
           ],
         },
       ],
