@@ -54,7 +54,7 @@ export default defineConfig({
             { text: '画线', link: '/three/line' },
             { text: '轨道控制器', link: '/three/OrbitControls' },
             { text: '包围盒', link: '/three/BoxHelper' },
-            { text: '雾', link: '/three/Flog' },
+            { text: '雾', link: '/three/Fog' },
             { text: 'gltf模型', link: '/three/GLTFLoader' },
           ],
         },
