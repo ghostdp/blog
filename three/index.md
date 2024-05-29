@@ -17,3 +17,4 @@
 - [天空盒](/three/Skybox)
 - [光线投射交互操作](/three/Raycaster)
 - [坐标格辅助对象](/three/GridHelper)
+- [正交摄像机](/three/OrthographicCamera)

@@ -58,7 +58,8 @@ export default defineConfig({
             { text: 'gltf模型', link: '/three/GLTFLoader' },
             { text: '天空盒', link: '/three/Skybox' },
             { text: '光线投射交互操作', link: '/three/Raycaster' },
-            { text: '坐标格辅助对象', link: '/three/GridHelper' }
+            { text: '坐标格辅助对象', link: '/three/GridHelper' },
+            { text: '正交摄像机', link: '/three/OrthographicCamera' }
           ],
         },
       ],
