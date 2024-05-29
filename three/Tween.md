@@ -1,6 +1,6 @@
 # Tween
 
-补间动画，指定起始点和结束掉，自动区间补全动画。
+补间动画，指定起始点和结束点，自动区间补全动画。
 
 ```javascript
 import * as THREE from 'three'
