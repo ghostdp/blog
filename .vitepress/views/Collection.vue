@@ -27,6 +27,14 @@ const members = [
     links: [
       { icon: linkIcon, link: 'https://docs.tresjs.org/zh/' }
     ]
+  },
+  {
+    avatar: 'https://avatars.githubusercontent.com/u/49552305?s=200&v=4',
+    name: 'javascript.info',
+    title: '现代 JavaScript 教程',
+    links: [
+      { icon: linkIcon, link: 'https://zh.javascript.info/' }
+    ]
   }
 ]
 </script>
