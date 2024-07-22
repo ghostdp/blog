@@ -35,6 +35,14 @@ const members = [
     links: [
       { icon: linkIcon, link: 'https://zh.javascript.info/' }
     ]
+  },
+  {
+    avatar: 'https://www.leaferjs.com/ui/svg/bettery/bettery-100-2.svg',
+    name: 'LeaferJS',
+    title: 'Canvas 2D 图形渲染引擎',
+    links: [
+      { icon: linkIcon, link: 'https://www.leaferjs.com/' }
+    ]
   }
 ]
 </script>
